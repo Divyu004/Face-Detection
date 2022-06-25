@@ -1,2 +1,2 @@
 # Face-Detection
-This project detects faces using OpenCV &amp; other libraries of python.
+This project detects faces by using CV2 & python.
