@@ -1,6 +1,6 @@
 import cv2
 
-cascade_classifier = cv2.CascadeClassifier('D:/Prg/Python/FD/Face-Detection/haarcascades/haarcascade_frontalface_default.xml')
+cascade_classifier = cv2.CascadeClassifier('haarcascades/haarcascade_frontalface_default.xml')
 cap = cv2.VideoCapture(1) #1 shows that we are using external webcam To use inbuilt webcam replace 1 with 0
 
 while True:
